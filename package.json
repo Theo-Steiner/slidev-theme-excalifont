@@ -1,6 +1,6 @@
 {
-  "name": "slidev-theme-excali-slide",
-  "version": "1.3.0",
+  "name": "slidev-theme-excalifont",
+  "version": "0.0.1",
   "type": "module",
   "keywords": [
     "slidev-theme",
@@ -31,17 +31,17 @@
     "highlighter": "all",
     "defaults": {
       "fonts": {
-        "sans": "Virgil",
+        "sans": "Excalidraw",
         "mono": "Fira Code"
       }
     }
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filiphric/slidev-theme-excali-slide.git"
+    "url": "https://github.com/theo-steiner/slidev-theme-excalifont.git"
   },
   "bugs": {
-    "url": "https://github.com/filiphric/slidev-theme-excali-slide/issues"
+    "url": "https://github.com/theo-steiner/slidev-theme-excalifont/issues"
   },
-  "homepage": "https://github.com/filiphric/slidev-theme-excali-slide#readme"
+  "homepage": "https://github.com/theo-steiner/slidev-theme-excalifont#readme"
 }
