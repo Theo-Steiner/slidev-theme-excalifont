@@ -1,6 +1,6 @@
 > [!CAUTION]
-> This is a fork of (filiphric/slidev-theme-excali-slide)[https://github.com/filiphric/slidev-theme-excali-slide] intended for personal usage.
-> The primary difference is that this theme was modified to use excalidraw's new (excalifont)[https://plus.excalidraw.com/excalifont]
+> This is a fork of [filiphric/slidev-theme-excali-slide](https://github.com/filiphric/slidev-theme-excali-slide) intended for personal usage.
+> The primary difference is that this theme was modified to use excalidraw's new [excalifont](https://plus.excalidraw.com/excalifont)
 > If you are looking for a theme to use with slidev please check the original repo first.
 
 # slidev-theme-excalifont
